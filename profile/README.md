@@ -2,6 +2,8 @@
 
 Welcome to the documentation for the Bento Barber Booking App. Bento is a mobile application designed to streamline the barber booking process, making it easier for both barbers and students to manage their appointments. This document provides an overview of the app and describes the three main repositories associated with its development: the Bento Barber App, the Student App, and the Firebase Cloud Function. Additionally, it provides instructions for installation.
 
+- You can downnload the app from [here](https://play.google.com/store/apps/details?id=com.devesh16.bento)
+
 ## App Overview
 
 The Bento Barber Booking App is built using React Native and Firebase, offering a cross-platform solution for both Android and iOS users. It simplifies the barber booking process, allowing students to easily find and book appointments with their preferred barbers, and barbers to manage their schedules efficiently.
