@@ -68,6 +68,7 @@ To set up the Bento Barber Booking App locally, follow these steps:
    ```bash
    cd bento-barber-app
    npm install
+   ```
 
    ```bash
    cd student-app
