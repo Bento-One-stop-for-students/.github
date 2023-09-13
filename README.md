@@ -45,3 +45,49 @@ To set up the Bento Barber Booking App locally, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/bento-barber-app.git
+
+2. Clone the Student App repository:
+   ```bash
+   git clone https://github.com/yourusername/student-app.git
+
+3. Clone the Firebase Cloud Function repository:
+   ```bash
+   git clone https://github.com/yourusername/firebase-cloud-function.git
+
+4. Set Up Firebase
+
+- Create a Firebase project on the Firebase Console.
+
+- Set up Firebase Authentication and Firestore for your project.
+
+- Configure Firebase credentials in the Bento Barber App and Student App by following the Firebase documentation.
+
+## Install Dependencies
+- Navigate to each cloned repository and install the project dependencies:
+
+   ```bash
+   cd bento-barber-app
+   npm install
+
+   ```bash
+   cd student-app
+   npm install
+
+- Start the Apps
+- Start the Bento Barber App and Student App using Expo:
+
+   ```bash
+   cd bento-barber-app
+   npm start
+   ```
+
+   ```bash
+   cd student-app
+   npm start
+   ```
+- Follow the instructions provided by Expo to run the apps on an emulator or physical device.
+
+## Deploy Firebase Cloud Function
+- Deploy the Firebase Cloud Function to handle backend tasks. Refer to the repository's README for deployment instructions.
+
+That's it! You've successfully set up the Bento Barber Booking App and its associated repositories. Feel free to explore and customize the app to fit your specific needs. If you encounter any issues or have questions, please refer to the repository READMEs for further guidance.
